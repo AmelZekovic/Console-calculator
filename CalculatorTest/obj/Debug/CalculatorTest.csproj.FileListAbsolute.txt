@@ -1,0 +1,12 @@
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Amel\Desktop\C# Projekti\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Amel\Desktop\Zadaca\C#\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
